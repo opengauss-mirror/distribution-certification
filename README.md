@@ -1,25 +1,25 @@
 # distribution-certification
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+#### 目的
 
-#### 软件架构
-软件架构说明
+发布《基于openGauss开发数据库产品成熟度评估参考规范》的目的在于：
+1.  为基于社区版开发产品的用户及伙伴提供一套统一的、规范的需求及产品管理工具模板；
+2.  为牵引社区伙伴产品竞争力持续提升，提供一套产品成熟度评估工具模板；
+3.  为行业客户的数据库需求分析及产品选型，提供一套选择及评估的参考规范。
 
 
-#### 安装教程
+#### 定位
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+《基于openGauss开发数据库产品成熟度评估参考规范》定位为为openGauss数据库开发者及使用者提供一套标准的特性分类、特性描述、特性实现程度的定义，用于规范和统一基于openGausss社区的需求管理、产品规划、联合开发及产品测评的技术口径。
 
-#### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 应用场景
+
+1.  产品需求管理，例如：管理企业或者组织的产品需求；
+2.  联合规划、联合开发，例如：企业和组织间的合作开发；
+3.  产品选择评估，例如：应用于客户招标的重要参考；
+4.  行业准入标准，例如：《工业领域数据库（含嵌入式）商业发行版研发指导书V1.0》将会成为《基于openGauss开发数据库产品成熟度评估参考规范》的第一个应用场景，指导工业领域数据库商业发行版的选型和开发。
+
 
 #### 参与贡献
 
@@ -28,12 +28,3 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 3.  提交代码
 4.  新建 Pull Request
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
