@@ -15,19 +15,19 @@ openGauss兼容性技术测评标准确认和发布的流程如下：
 - 步骤3. 提交基本测试报告。在issue上上传测试报告。
 - 步骤4. 审核基本测试报告结果。申请sig例会，在例会上评审基本测试报告内容。
 - 步骤5. 社区启动防伪测试。伙伴需提一键安装脚本，对一键安装脚本要求如下：   
-    （1）shell/python脚本均可   
-    （2）脚本可进行下列参数设置：   
-        0. hostname -- 安装机器ip   
-        1. username -- 安装数据库的用户   
-        2. userpasswd -- 安装数据库的用户密码   
-        3. port -- 数据库端口号   
-        4. install_path -- 数据库安装目录（如/opt/huawei/install/app）   
-        5. dn_path -- 数据库实例目录（如/opt/huawei/install/data/dn）   
-        6. dbuser -- 创建好的可用于连接JDBC的数据库用户   
-        7. dbpasswd -- 创建好的可用于连接JDBC的数据库用户密码   
-        8. dbname -- 创建好的可用于连接JDBC的数据库   
-    （3）安装完成后，保证可以用openGauss社区jdbc驱动包连接到数据库。   
-    注意：未按上面要求提供脚本，将无法完成防伪测试。   
+　　（1）shell/python脚本均可   
+　　（2）脚本可进行下列参数设置：   
+　　　　0. hostname -- 安装机器ip   
+　　　　1. username -- 安装数据库的用户   
+　　　　2. userpasswd -- 安装数据库的用户密码   
+　　　　3. port -- 数据库端口号   
+　　　　4. install_path -- 数据库安装目录（如/opt/huawei/install/app）   
+　　　　5. dn_path -- 数据库实例目录（如/opt/huawei/install/data/dn）   
+　　　　6. dbuser -- 创建好的可用于连接JDBC的数据库用户   
+　　　　7. dbpasswd -- 创建好的可用于连接JDBC的数据库用户密码   
+　　　　8. dbname -- 创建好的可用于连接JDBC的数据库   
+　　（3）安装完成后，保证可以用openGauss社区jdbc驱动包连接到数据库。   
+　　注意：未按上面要求提供脚本，将无法完成防伪测试。   
 - 步骤6. 审核防伪测试结果。
 - 步骤7. 审批。基本测试和防伪测试均通过后，将获得审批通过。
 - 步骤8. 社区发布认证结果。
